@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "1. Рабочее окружение"
 
-md![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
 
 ### Неронов Алексей группа <span style="color:green">**FPY-120**</span>
 
