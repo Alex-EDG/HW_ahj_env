@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "1. Рабочее окружение"
 
+### Неронов Алексей группа <span style="color:green">**FPY-120**</span>
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
@@ -22,7 +24,7 @@
    ![alt text](./github-setup.png)
 5. В файле `REAME.md` в строке:
 ```md
-![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Alex-EDG/HW_ahj_env/actions/workflows/web.yml/badge.svg)
 ```
 Заменить `<OWNER>` на ваш ник на github;
 

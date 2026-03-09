@@ -14,8 +14,18 @@
     "preshow:dist": "npm run build",
     "show:dist": "http-server dist"
   },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-EDG/HW_ahj_env.git"
+  },
+  "keywords": [],
   "author": "Alexey Neronov",
   "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/Alex-EDG/HW_ahj_env/issues"
+  },
+
+  "homepage": "https://github.com/Alex-EDG/HW_ahj_env#readme",
   "devDependencies": {
     "@babel/cli": "^7.28.6",
     "@babel/core": "^7.29.0",
